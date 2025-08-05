@@ -5,6 +5,7 @@ import {
 } from "@adobe-commerce/aco-ts-sdk";
 import { loadConfig, readFile } from "./utils.js";
 
+
 const BATCH_SIZE = 100;
 
 const getBatchNumber = (index) => Math.floor(index / BATCH_SIZE) + 1;
@@ -125,6 +126,24 @@ const ingestPrices = async (client) => {
   }
 };
 
+import products from './data/products.json' with { type: 'json' };
+const updateProducts = async (client) => {
+  products.forEach(product => {
+    const productUpdate = {
+      sku: product.sku,
+      source: { locale: "en-US" },
+      attributes: [
+        {
+          "code": "new_arrival",
+          "type": "BOOLEAN",
+          "values": ["true"]
+        }
+      ]
+    };
+    const response = client.updateProducts([productUpdate]).then(response => console.log(`Update response for ${product.sku}:`, response.data));
+  });
+};
+
 const main = async () => {
   const envConfig = loadConfig();
   const clientConfig = {
@@ -144,6 +163,7 @@ const main = async () => {
   await ingestProducts(client);
   await ingestPriceBooks(client);
   await ingestPrices(client);
+  // updateProducts(client);
 };
 
 main().catch(console.error);
