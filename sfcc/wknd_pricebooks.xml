@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<pricebooks xmlns="http://www.demandware.com/xml/impex/pricebook/2006-10-31">
+  <pricebook>
+    <header pricebook-id="wknd_global">
+      <currency>USD</currency>
+      <display-name xml:lang="x-default">WKND Global price book</display-name>
+      <online-flag>true</online-flag>
+    </header>
+    <price-tables>
+      <price-table product-id="wknd-bolt-sneakers-2013">
+        <amount quantity="1">375.0</amount>
+      </price-table>
+      <price-table product-id="wknd-bolt-sneakers-2015">
+        <amount quantity="1">375.0</amount>
+      </price-table>
+      <price-table product-id="wknd-socks-2013">
+        <amount quantity="1">37.5</amount>
+      </price-table>
+      <price-table product-id="wknd-socks-2015">
+        <amount quantity="1">37.5</amount>
+      </price-table>
+      <price-table product-id="wknd-shorts-2013">
+        <amount quantity="1">120.0</amount>
+      </price-table>
+      <price-table product-id="wknd-shorts-2015">
+        <amount quantity="1">120.0</amount>
+      </price-table>
+      <price-table product-id="wknd-shirts-2013">
+        <amount quantity="1">60.0</amount>
+      </price-table>
+    </price-tables>
+  </pricebook>
+  <pricebook>
+    <header pricebook-id="wknd_vip">
+      <currency>USD</currency>
+      <display-name xml:lang="x-default">WKND VIP price book</display-name>
+      <online-flag>true</online-flag>
+      <parent>wknd_global</parent>
+    </header>
+    <price-tables>
+      <price-table product-id="wknd-bolt-sneakers-2013">
+        <amount quantity="1">318.75</amount>
+      </price-table>
+      <price-table product-id="wknd-bolt-sneakers-2015">
+        <amount quantity="1">318.75</amount>
+      </price-table>
+      <price-table product-id="wknd-socks-2013">
+        <amount quantity="1">31.75</amount>
+      </price-table>
+      <price-table product-id="wknd-socks-2015">
+        <amount quantity="1">31.75</amount>
+      </price-table>
+      <price-table product-id="wknd-shorts-2013">
+        <amount quantity="1">102.0</amount>
+      </price-table>
+      <price-table product-id="wknd-shorts-2015">
+        <amount quantity="1">102.0</amount>
+      </price-table>
+      <price-table product-id="wknd-shirts-2013">
+        <amount quantity="1">51.0</amount>
+      </price-table>
+    </price-tables>
+  </pricebook>
+</pricebooks>

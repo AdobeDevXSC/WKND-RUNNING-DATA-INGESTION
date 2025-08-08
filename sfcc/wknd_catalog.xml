@@ -1,0 +1,444 @@
+<?xml version="1.0" ?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="wknd_running">
+  <header>
+    <image-settings>
+      <external-location>
+        <http-url>https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/</http-url>
+        <https-url>https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/</https-url>
+      </external-location>
+      <view-types>
+        <view-type>large</view-type>
+        <view-type>small</view-type>
+        <view-type>medium</view-type>
+        <view-type>swatch</view-type>
+        <view-type>thumbnail</view-type>
+      </view-types>
+    </image-settings>
+    <custom-attributes/>
+  </header>
+  <category category-id="shoes">
+    <display-name xml:lang="x-default">shoes</display-name>
+    <parent>root</parent>
+  </category>
+  <category category-id="socks">
+    <display-name xml:lang="x-default">socks</display-name>
+    <parent>root</parent>
+  </category>
+  <category category-id="shorts">
+    <display-name xml:lang="x-default">shorts</display-name>
+    <parent>root</parent>
+  </category>
+  <category category-id="shirts">
+    <display-name xml:lang="x-default">shirts</display-name>
+    <parent>root</parent>
+  </category>
+  <product product-id="wknd-bolt-sneakers-2013">
+    <display-name xml:lang="x-default">WKND Bolt Sneakers 2013</display-name>
+    <short-description xml:lang="x-default">Sneakers for people on the go!</short-description>
+    <long-description xml:lang="x-default">Sneakers for people on the go!</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20red%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2013)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20red%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2013)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20red%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2013)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20red%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2013)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2013)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-bolt-sneakers-2013</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">sneakers</page-title>
+      <page-description xml:lang="x-default">WKND Running Sneakers</page-description>
+      <page-keywords xml:lang="x-default">footwear, sneakers, athletic, shoes, wknd</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>shoes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-bolt-sneakers-2013" type="cross-sell"/>
+    </product-links>
+  </product>
+  <product product-id="wknd-bolt-sneakers-2015">
+    <display-name xml:lang="x-default">WKND Bolt Sneakers 2015</display-name>
+    <short-description xml:lang="x-default">Sneakers for people on the go!</short-description>
+    <long-description xml:lang="x-default">Sneakers for people on the go!</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20blue%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2015)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20blue%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2015)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20blue%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2015)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_create%20example%20product%20images%20of%20sneakers%20blue%20as%20single%20pair%20647658.jpg">
+          <alt xml:lang="x-default">WKND Running Sneakers (2015)</alt>
+          <title xml:lang="x-default">WKND Running Sneakers (2015)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-bolt-sneakers-2015</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">sneakers</page-title>
+      <page-description xml:lang="x-default">WKND Running Sneakers</page-description>
+      <page-keywords xml:lang="x-default">footwear, sneakers, athletic, shoes, wknd</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>shoes</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-bolt-sneakers-2015" type="cross-sell"/>
+    </product-links>
+  </product>
+  <product product-id="wknd-socks-2013">
+    <display-name xml:lang="x-default">WKND Socks 2013</display-name>
+    <short-description xml:lang="x-default">High performance socks</short-description>
+    <long-description xml:lang="x-default">High performance socks</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2013)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2013)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2013)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2013)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2013)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-socks-2013</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">socks</page-title>
+      <page-description xml:lang="x-default">WKND Running Socks</page-description>
+      <page-keywords xml:lang="x-default">performance, socks</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>socks</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-running-socks-2013" type="cross-sell"/>
+    </product-links>
+  </product>
+  <product product-id="wknd-socks-2015">
+    <display-name xml:lang="x-default">WKND Socks 2015</display-name>
+    <short-description xml:lang="x-default">High performance socks</short-description>
+    <long-description xml:lang="x-default">High performance socks</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_generate%20multiple%20images%20of%20white%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2015)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_generate%20multiple%20images%20of%20white%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2015)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_generate%20multiple%20images%20of%20white%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2015)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_generate%20multiple%20images%20of%20white%20running%20socks.%208045.jpg">
+          <alt xml:lang="x-default">WKND Running Socks (2015)</alt>
+          <title xml:lang="x-default">WKND Running Socks (2015)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-socks-2015</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">socks</page-title>
+      <page-description xml:lang="x-default">WKND Running Socks</page-description>
+      <page-keywords xml:lang="x-default">performance, socks</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>socks</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-running-socks-2015" type="cross-sell"/>
+    </product-links>
+  </product>
+  <product product-id="wknd-shorts-2013">
+    <display-name xml:lang="x-default">WKND Shorts 2013</display-name>
+    <short-description xml:lang="x-default">High performace shorts</short-description>
+    <long-description xml:lang="x-default">High performance shorts</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2013)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-shorts-2013</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">socks</page-title>
+      <page-description xml:lang="x-default">WKND Running shorts</page-description>
+      <page-keywords xml:lang="x-default">performance, running</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>shorts</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-running-shorts-2013" type="cross-sell"/>
+    </product-links>
+  </product>
+  <product product-id="wknd-shorts-2015">
+    <display-name xml:lang="x-default">WKND Shorts 2015</display-name>
+    <short-description xml:lang="x-default">High performace shorts</short-description>
+    <long-description xml:lang="x-default">High performance shorts</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20677361.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20677361.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20677361.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20677361.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_generate%20multiple%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg">
+          <alt xml:lang="x-default">WKND Running Shorts (2015)</alt>
+          <title xml:lang="x-default">WKND Running Shorts (2015)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-shorts-2015</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">socks</page-title>
+      <page-description xml:lang="x-default">WKND Running shorts</page-description>
+      <page-keywords xml:lang="x-default">performance, shorts, running</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>shorts</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-running-shorts-2015" type="cross-sell"/>
+    </product-links>
+  </product>
+  <product product-id="wknd-shirts-2013">
+    <display-name xml:lang="x-default">WKND Shirts 2013</display-name>
+    <short-description xml:lang="x-default">High performance shirts</short-description>
+    <long-description xml:lang="x-default">High performance shirts</long-description>
+    <online-flag site-id="Wknd">true</online-flag>
+    <searchable-flag site-id="Wknd">true</searchable-flag>
+    <searchable-if-unavailable-flag site-id="Wknd">true</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="thumbnail">
+        <image path="Firefly_generate%20image%20of%20running%20shirt.%20make%20them%20different%20style%20of%20shirts%20and%20only%201%20shirt%20799936.jpg">
+          <alt xml:lang="x-default">WKND Running Shirt (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shirt (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="large">
+        <image path="Firefly_generate%20image%20of%20running%20shirt.%20make%20them%20different%20style%20of%20shirts%20and%20only%201%20shirt%20799936.jpg">
+          <alt xml:lang="x-default">WKND Running Shirt (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shirt (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="medium">
+        <image path="Firefly_generate%20image%20of%20running%20shirt.%20make%20them%20different%20style%20of%20shirts%20and%20only%201%20shirt%20799936.jpg">
+          <alt xml:lang="x-default">WKND Running Shirt (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shirt (2013)</title>
+        </image>
+      </image-group>
+      <image-group view-type="small">
+        <image path="Firefly_generate%20image%20of%20running%20shirt.%20make%20them%20different%20style%20of%20shirts%20and%20only%201%20shirt%20799936.jpg">
+          <alt xml:lang="x-default">WKND Running Shirt (2013)</alt>
+          <title xml:lang="x-default">WKND Running Shirt (2013)</title>
+        </image>
+      </image-group>
+    </images>
+    <brand>WKND</brand>
+    <manufacturer-name>WKND</manufacturer-name>
+    <manufacturer-sku>wknd-shirts-2013</manufacturer-sku>
+    <page-attributes>
+      <page-title xml:lang="x-default">shorts</page-title>
+      <page-description xml:lang="x-default">WKND Running shirts</page-description>
+      <page-keywords xml:lang="x-default">performance, t-shirts, running, shirts, apparel</page-keywords>
+      <page-url xml:lang="x-default"/>
+    </page-attributes>
+    <custom-attributes>
+      <custom-attribute attribute-id="item_category">
+        <value>shirts</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="new_arrivals">
+        <value>true</value>
+      </custom-attribute>
+    </custom-attributes>
+    <product-links>
+      <product-link product-id="wknd-running-shirts-2013" type="cross-sell"/>
+    </product-links>
+  </product>
+  <category-assignment category-id="shoes" product-id="wknd-bolt-sneakers-2013"/>
+  <category-assignment category-id="shoes" product-id="wknd-bolt-sneakers-2015"/>
+  <category-assignment category-id="socks" product-id="wknd-socks-2013"/>
+  <category-assignment category-id="socks" product-id="wknd-socks-2015"/>
+  <category-assignment category-id="shorts" product-id="wknd-shorts-2013"/>
+  <category-assignment category-id="shorts" product-id="wknd-shorts-2015"/>
+  <category-assignment category-id="shirts" product-id="wknd-shirts-2013"/>
+</catalog>

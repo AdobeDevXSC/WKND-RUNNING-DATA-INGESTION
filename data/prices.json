@@ -6,58 +6,28 @@
   },
   {
     "sku": "wknd-bolt-sneakers-2013",
-    "priceBookId": "west_coast_inc",
-    "regular": 250.0
+    "priceBookId": "wknd_global",
+    "regular": 375.0
   },
   {
     "sku": "wknd-bolt-sneakers-2013",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 175.0
+    "priceBookId": "wknd_vip",
+    "regular": 318.75
   },
   {
-    "sku": "wknd-bolt-sneakers-2013",
-    "priceBookId": "east_coast_inc",
-    "regular": 300.0
+    "sku": "wknd-bolt-sneakers-2015",
+    "priceBookId": "main",
+    "regular": 0.0
   },
   {
-    "sku": "wknd-bolt-sneakers-2013",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 180.0
-  },
-  {
-    "sku": "wknd-bolt-sneakers-2013",
-    "priceBookId": "global_visibility",
+    "sku": "wknd-bolt-sneakers-2015",
+    "priceBookId": "wknd_global",
     "regular": 375.0
   },
   {
     "sku": "wknd-bolt-sneakers-2015",
-    "priceBookId": "main",
-    "regular": 0.0
-  },
-  {
-    "sku": "wknd-bolt-sneakers-2015",
-    "priceBookId": "west_coast_inc",
-    "regular": 250.0
-  },
-  {
-    "sku": "wknd-bolt-sneakers-2015",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 175.0
-  },
-  {
-    "sku": "wknd-bolt-sneakers-2015",
-    "priceBookId": "east_coast_inc",
-    "regular": 300.0
-  },
-  {
-    "sku": "wknd-bolt-sneakers-2015",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 180.0
-  },
-  {
-    "sku": "wknd-bolt-sneakers-2015",
-    "priceBookId": "global_visibility",
-    "regular": 375.0
+    "priceBookId": "wknd_vip",
+    "regular": 318.75
   },
   {
     "sku": "wknd-socks-2013",
@@ -66,58 +36,28 @@
   },
   {
     "sku": "wknd-socks-2013",
-    "priceBookId": "west_coast_inc",
-    "regular": 25.0
+    "priceBookId": "wknd_global",
+    "regular": 37.5
   },
   {
     "sku": "wknd-socks-2013",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 17.5
+    "priceBookId": "wknd_vip",
+    "regular": 31.75
   },
   {
-    "sku": "wknd-socks-2013",
-    "priceBookId": "east_coast_inc",
-    "regular": 30.0
+    "sku": "wknd-socks-2015",
+    "priceBookId": "main",
+    "regular": 0.0
   },
   {
-    "sku": "wknd-socks-2013",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 18.0
-  },
-  {
-    "sku": "wknd-socks-2013",
-    "priceBookId": "global_visibility",
+    "sku": "wknd-socks-2015",
+    "priceBookId": "wknd_global",
     "regular": 37.5
   },
   {
     "sku": "wknd-socks-2015",
-    "priceBookId": "main",
-    "regular": 0.0
-  },
-  {
-    "sku": "wknd-socks-2015",
-    "priceBookId": "west_coast_inc",
-    "regular": 25.0
-  },
-  {
-    "sku": "wknd-socks-2015",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 17.5
-  },
-  {
-    "sku": "wknd-socks-2015",
-    "priceBookId": "east_coast_inc",
-    "regular": 30.0
-  },
-  {
-    "sku": "wknd-socks-2015",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 18.0
-  },
-  {
-    "sku": "wknd-socks-2015",
-    "priceBookId": "global_visibility",
-    "regular": 37.5
+    "priceBookId": "wknd_vip",
+    "regular": 31.75
   },
   {
     "sku": "wknd-shorts-2013",
@@ -126,58 +66,28 @@
   },
   {
     "sku": "wknd-shorts-2013",
-    "priceBookId": "west_coast_inc",
-    "regular": 80.0
+    "priceBookId": "wknd_global",
+    "regular": 120.0
   },
   {
     "sku": "wknd-shorts-2013",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 56.0
+    "priceBookId": "wknd_vip",
+    "regular": 102.0
   },
   {
-    "sku": "wknd-shorts-2013",
-    "priceBookId": "east_coast_inc",
-    "regular": 96.0
+    "sku": "wknd-shorts-2015",
+    "priceBookId": "main",
+    "regular": 0.0
   },
   {
-    "sku": "wknd-shorts-2013",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 56.6
-  },
-  {
-    "sku": "wknd-shorts-2013",
-    "priceBookId": "global_visibility",
+    "sku": "wknd-shorts-2015",
+    "priceBookId": "wknd_global",
     "regular": 120.0
   },
   {
     "sku": "wknd-shorts-2015",
-    "priceBookId": "main",
-    "regular": 0.0
-  },
-  {
-    "sku": "wknd-shorts-2015",
-    "priceBookId": "west_coast_inc",
-    "regular": 80.0
-  },
-  {
-    "sku": "wknd-shorts-2015",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 56.0
-  },
-  {
-    "sku": "wknd-shorts-2015",
-    "priceBookId": "east_coast_inc",
-    "regular": 96.0
-  },
-  {
-    "sku": "wknd-shorts-2015",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 56.6
-  },
-  {
-    "sku": "wknd-shorts-2015",
-    "priceBookId": "global_visibility",
-    "regular": 120.0
+    "priceBookId": "wknd_vip",
+    "regular": 102.0
   },
   {
     "sku": "wknd-shirts-2013",
@@ -186,27 +96,12 @@
   },
   {
     "sku": "wknd-shirts-2013",
-    "priceBookId": "west_coast_inc",
-    "regular": 40.0
-  },
-  {
-    "sku": "wknd-shirts-2013",
-    "priceBookId": "vip_west_coast_inc",
-    "regular": 28.0
-  },
-  {
-    "sku": "wknd-shirts-2013",
-    "priceBookId": "east_coast_inc",
-    "regular": 48.0
-  },
-  {
-    "sku": "wknd-shirts-2013",
-    "priceBookId": "vip_east_coast_inc",
-    "regular": 28.8
-  },
-  {
-    "sku": "wknd-shirts-2013",
-    "priceBookId": "global_visibility",
+    "priceBookId": "wknd_global",
     "regular": 60.0
+  },
+  {
+    "sku": "wknd-shirts-2013",
+    "priceBookId": "wknd_vip",
+    "regular": 51.0
   }
 ]

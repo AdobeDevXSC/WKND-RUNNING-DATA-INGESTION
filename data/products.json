@@ -9,25 +9,11 @@
     "status": "ENABLED",
     "description": "Sneakers for people on the go!",
     "shortDescription": "Sneakers for people on the go!",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "sneakers",
       "description": "WKND Running Sneakers",
-      "keywords": [
-        "footwear",
-        "sneakers",
-        "athletic",
-        "footwear",
-        "shoes",
-        "wknd",
-        "athletic",
-        "sneakers",
-        "footwear",
-        "shoes"
-      ]
+      "keywords": ["footwear", "sneakers", "athletic", "shoes", "wknd"]
     },
     "attributes": [
       {
@@ -36,19 +22,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Bolt"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2013"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["shoes"]
       },
       {
         "code": "new_arrivals",
@@ -58,13 +34,9 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_create%20example%20product%20images%20of%20sneakers%20red%20as%20single%20pair%20647658.jpg",
+        "url": "Firefly_create%20example%20product%20images%20of%20sneakers%20red%20as%20single%20pair%20647658.jpg",
         "label": "WKND Running Sneakers (2013)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
@@ -89,25 +61,11 @@
     "status": "ENABLED",
     "description": "Sneakers for people on the go!",
     "shortDescription": "Sneakers for people on the go!",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "sneakers",
       "description": "WKND Running Sneakers",
-      "keywords": [
-        "footwear",
-        "sneakers",
-        "athletic",
-        "footwear",
-        "shoes",
-        "wknd",
-        "athletic",
-        "sneakers",
-        "footwear",
-        "shoes"
-      ]
+      "keywords": ["footwear", "sneakers", "athletic", "shoes", "wknd"]
     },
     "attributes": [
       {
@@ -116,19 +74,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Bolt"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2015"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["shoes"]
       },
       {
         "code": "new_arrivals",
@@ -138,13 +86,9 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_create%20example%20product%20images%20of%20sneakers%20blue%20as%20single%20pair%20647658.jpg",
+        "url": "Firefly_create%20example%20product%20images%20of%20sneakers%20blue%20as%20single%20pair%20647658.jpg",
         "label": "WKND Running Sneakers (2015)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
@@ -169,25 +113,11 @@
     "status": "ENABLED",
     "description": "High performance socks",
     "shortDescription": "High performance socks",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "socks",
       "description": "WKND Running Socks",
-      "keywords": [
-        "performance",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks"
-      ]
+      "keywords": ["performance", "socks"]
     },
     "attributes": [
       {
@@ -196,19 +126,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Socks"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2013"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["socks"]
       },
       {
         "code": "new_arrivals",
@@ -218,13 +138,9 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_generate%20multiple%20images%20of%20black%20running%20socks.%208045.jpg",
+        "url": "Firefly_generate%20multiple%20images%20of%20black%20running%20socks.%208045.jpg",
         "label": "WKND Running Socks (2013)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
@@ -249,25 +165,11 @@
     "status": "ENABLED",
     "description": "High performance socks",
     "shortDescription": "High performance socks",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "socks",
       "description": "WKND Running Socks",
-      "keywords": [
-        "performance",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks",
-        "socks"
-      ]
+      "keywords": ["performance", "socks"]
     },
     "attributes": [
       {
@@ -276,19 +178,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Socks"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2015"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["socks"]
       },
       {
         "code": "new_arrivals",
@@ -298,13 +190,9 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_generate%20multiple%20images%20of%20white%20running%20socks.%208045.jpg",
+        "url": "Firefly_generate%20multiple%20images%20of%20white%20running%20socks.%208045.jpg",
         "label": "WKND Running Socks (2015)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
@@ -329,25 +217,11 @@
     "status": "ENABLED",
     "description": "High performance shorts",
     "shortDescription": "High performace shorts",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "socks",
       "description": "WKND Running shorts",
-      "keywords": [
-        "performance",
-        "shorts",
-        "shorts",
-        "shorts",
-        "running",
-        "shorts",
-        "shorts",
-        "shorts",
-        "shorts",
-        "shorts"
-      ]
+      "keywords": ["performance", "running"]
     },
     "attributes": [
       {
@@ -356,19 +230,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Shorts"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2013"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["shorts"]
       },
       {
         "code": "new_arrivals",
@@ -378,13 +242,9 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg",
+        "url": "Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg",
         "label": "WKND Running Shorts (2013)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
@@ -409,25 +269,11 @@
     "status": "ENABLED",
     "description": "High performance shorts",
     "shortDescription": "High performace shorts",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "socks",
       "description": "WKND Running shorts",
-      "keywords": [
-        "performance",
-        "shorts",
-        "shorts",
-        "shorts",
-        "running",
-        "shorts",
-        "shorts",
-        "shorts",
-        "shorts",
-        "shorts"
-      ]
+      "keywords": ["performance", "shorts", "running"]
     },
     "attributes": [
       {
@@ -436,19 +282,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Shorts"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2015"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["shorts"]
       },
       {
         "code": "new_arrivals",
@@ -458,22 +294,14 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20677361.jpg",
+        "url": "Firefly_generate%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20677361.jpg",
         "label": "WKND Running Shorts (2015)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       },
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_generate%20multiple%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg",
+        "url": "Firefly_generate%20multiple%20images%20of%20black%20running%20shorts.%20to%20the%20jump%20or%20run%20740304.jpg",
         "label": "WKND Running Shorts (2015)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
@@ -498,25 +326,11 @@
     "status": "ENABLED",
     "description": "High performance shirts",
     "shortDescription": "High performance shirts",
-    "visibleIn": [
-      "CATALOG",
-      "SEARCH"
-    ],
+    "visibleIn": ["CATALOG", "SEARCH"],
     "metaTags": {
       "title": "shorts",
       "description": "WKND Running shirts",
-      "keywords": [
-        "performance",
-        "shirts",
-        "t-shirts",
-        "running",
-        "shirts",
-        "apparel",
-        "shirts",
-        "shirts",
-        "shirts",
-        "shirts"
-      ]
+      "keywords": ["performance", "t-shirts", "running", "shirts", "apparel"]
     },
     "attributes": [
       {
@@ -525,19 +339,9 @@
         "values": ["WKND"]
       },
       {
-        "code": "model",
+        "code": "item_category",
         "type": "STRING",
-        "values": ["Shirts"]
-      },
-      {
-        "code": "model_year",
-        "type": "NUMBER",
-        "values": ["2015"]
-      },
-      {
-        "code": "country",
-        "type": "STRING",
-        "values": ["USA"]
+        "values": ["shirts"]
       },
       {
         "code": "new_arrivals",
@@ -547,13 +351,9 @@
     ],
     "images": [
       {
-        "url": "https://publish-p124903-e1367755.adobeaemcloud.com/content/dam/v0/assets/products/Firefly_generate%20image%20of%20running%20shirt.%20make%20them%20different%20style%20of%20shirts%20and%20only%201%20shirt%20799936.jpg",
+        "url": "Firefly_generate%20image%20of%20running%20shirt.%20make%20them%20different%20style%20of%20shirts%20and%20only%201%20shirt%20799936.jpg",
         "label": "WKND Running Shirt (2013)",
-        "roles": [
-          "THUMBNAIL",
-          "BASE",
-          "SMALL"
-        ]
+        "roles": ["THUMBNAIL", "BASE", "SMALL"]
       }
     ],
     "links": [
